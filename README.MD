@@ -1,16 +1,4 @@
-Thank Your For Your Purchase!
-
-To install and config check https://docs.spacedevelopment.store
-
-
-TOS:
-
-You may not resell my software
-You may not upload my software to a public forum
-You may not share my software with any friends/family
-You may not remove the credits unless you have purchased the credit removal pack
-
-License system will be implemtnted sooner or later
-
-BREAKING THE TOS WILL RESULT IN YOUR LICENSE KEY GETTING BANNED
-Banned License Key = Bot not work for those who need it explained further
+## just a regular mp bot i should have a docs up @ https://docs.vistacloud.org
+Get cheap hosting for it @ https://vistacloud.org
+**backstory** 
+I have gotten ownership of spacedevelopment. and the source code is now mine i did not make it but it was supposed to be a paid bot
